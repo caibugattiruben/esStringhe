@@ -1,0 +1,14 @@
+C:\Users\caibugatti.ruben\Desktop\Progetti c#\EsStringhe\EsStringhe\bin\Debug\net7.0\EsStringhe.exe
+C:\Users\caibugatti.ruben\Desktop\Progetti c#\EsStringhe\EsStringhe\bin\Debug\net7.0\EsStringhe.deps.json
+C:\Users\caibugatti.ruben\Desktop\Progetti c#\EsStringhe\EsStringhe\bin\Debug\net7.0\EsStringhe.runtimeconfig.json
+C:\Users\caibugatti.ruben\Desktop\Progetti c#\EsStringhe\EsStringhe\bin\Debug\net7.0\EsStringhe.dll
+C:\Users\caibugatti.ruben\Desktop\Progetti c#\EsStringhe\EsStringhe\bin\Debug\net7.0\EsStringhe.pdb
+C:\Users\caibugatti.ruben\Desktop\Progetti c#\EsStringhe\EsStringhe\obj\Debug\net7.0\EsStringhe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caibugatti.ruben\Desktop\Progetti c#\EsStringhe\EsStringhe\obj\Debug\net7.0\EsStringhe.AssemblyInfoInputs.cache
+C:\Users\caibugatti.ruben\Desktop\Progetti c#\EsStringhe\EsStringhe\obj\Debug\net7.0\EsStringhe.AssemblyInfo.cs
+C:\Users\caibugatti.ruben\Desktop\Progetti c#\EsStringhe\EsStringhe\obj\Debug\net7.0\EsStringhe.csproj.CoreCompileInputs.cache
+C:\Users\caibugatti.ruben\Desktop\Progetti c#\EsStringhe\EsStringhe\obj\Debug\net7.0\EsStringhe.dll
+C:\Users\caibugatti.ruben\Desktop\Progetti c#\EsStringhe\EsStringhe\obj\Debug\net7.0\refint\EsStringhe.dll
+C:\Users\caibugatti.ruben\Desktop\Progetti c#\EsStringhe\EsStringhe\obj\Debug\net7.0\EsStringhe.pdb
+C:\Users\caibugatti.ruben\Desktop\Progetti c#\EsStringhe\EsStringhe\obj\Debug\net7.0\EsStringhe.genruntimeconfig.cache
+C:\Users\caibugatti.ruben\Desktop\Progetti c#\EsStringhe\EsStringhe\obj\Debug\net7.0\ref\EsStringhe.dll
