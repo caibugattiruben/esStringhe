@@ -35,3 +35,12 @@ string frase = Console.ReadLine();
 frase = frase.Trim();
 string[] frase1 = frase.Split(" ");
 Console.WriteLine(fras(frase1));
+Console.WriteLine("dimmi la frase da spezzare");
+string ok = Console.ReadLine();
+ok = ok.Trim();
+string m = ok[ok.Length / 2].ToString();
+string[] ok1 = ok.Split(m);
+for(int i=0; i<ok1.Length; i++)
+{
+    Console.WriteLine(ok1[i]);
+}
