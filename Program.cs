@@ -48,6 +48,20 @@ bool palindroma(string s)
     }
     return false;
 }
+string[] divido(string s)
+{
+    string[] s1 = s.Split(" ");
+    string[] s2 = new string[s1.Length];
+    int o=s1.Length-1;
+    for(int i=0; i < s1.Length; i++)
+    {
+        s2[i] = s1[o];
+        o--;
+    }
+    return s2;
+    
+}
+
 string numero = "";
 Console.WriteLine("dimmi il numero binario(max lung 8, se superi 8 cifre, le cifre eccessive verranno eliminate)");
 numero = Console.ReadLine();
@@ -67,3 +81,10 @@ SpezzaMeta(ok);
 Console.WriteLine("dammi la parola per verificare se è palindroma");
 string stringa=Console.ReadLine();
 Console.WriteLine(palindroma(stringa));
+Console.WriteLine("dimmi la frase con le parole da invertire");
+string VF = Console.ReadLine();
+string[] VFF=divido(VF);
+for(int i = 0; i < VFF.Length; i++)
+{
+    Console.Write(VFF[i]+" ");
+}
