@@ -23,6 +23,11 @@ string fras(string[] frase)
     }
     return frase1;
 }
+void SpezzaMeta(string s)
+{
+    Console.WriteLine(s.Substring(0,s.Length/2));
+    Console.WriteLine(s.Substring(s.Length / 2));
+}
 string numero = "";
 Console.WriteLine("dimmi il numero binario(max lung 8, se superi 8 cifre, le cifre eccessive verranno eliminate)");
 numero = Console.ReadLine();
@@ -38,9 +43,4 @@ Console.WriteLine(fras(frase1));
 Console.WriteLine("dimmi la frase da spezzare");
 string ok = Console.ReadLine();
 ok = ok.Trim();
-string m = ok[ok.Length / 2].ToString();
-string[] ok1 = ok.Split(m);
-for(int i=0; i<ok1.Length; i++)
-{
-    Console.WriteLine(ok1[i]);
-}
+SpezzaMeta(ok);
